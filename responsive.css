@@ -37,22 +37,7 @@
   }
   /*Responsive Body*/
   
-  /*Responsive Form*/
-  h4{
-    color: black
-  }
-  .kirim input {
-    background-color: black
-  }
-  .form-registrasi {
-    background-color: green;
-  }
-  .form p {
-    color: white;
-  }
-  label {
-    color: white;
-  }
+ 
   /*Responsive Footer*/
   
 }
@@ -71,7 +56,23 @@
   
   /*Responsive Footer*/
 @media(max-width: 670px){
-    footer{
+   /*Responsive Form*/
+  h4{
+    color: black
+  }
+  .kirim input {
+    background-color: black
+  }
+  .form-registrasi {
+    background-color: green;
+  }
+  .form p {
+    color: white;
+  }
+  label {
+    color: white;
+  }  
+  footer{
      text-align: center; 
     }
   }
